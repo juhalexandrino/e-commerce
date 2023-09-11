@@ -22,6 +22,8 @@ namespace ECommerce.Model
             this.valor = valor;
         }
 
+        public Produto() { }
+
         public int GetId()
         {
             return id;
@@ -78,12 +80,12 @@ namespace ECommerce.Model
                     break;
             }
 
-            Console.WriteLine("\n=================================");
+            Console.WriteLine("\n===================================");
             Console.WriteLine("        Detalhes do pedido         ");
             Console.WriteLine("===================================");
             Console.WriteLine($"ID do produto: {this.id}");
             Console.WriteLine($"Nome da flor: {this.flor}");
-            Console.WriteLine($"Tipo da de arranjo: {this.tipoDeArranjo}");
+            Console.WriteLine($"Tipo de arranjo: {this.tipoDeArranjo}");
             Console.WriteLine($"Valor do produto: " + (this.valor).ToString("C"));
         }
     }

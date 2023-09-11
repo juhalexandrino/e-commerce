@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ECommerce.Model
 {
-    internal class ArranjoBoho : Produto
+    public class ArranjoBoho : Produto
     {
         private string tipoVaso;
         public ArranjoBoho(int id, int tipoDeArranjo, string flor, decimal valor, string tipoVaso) : base(id, tipoDeArranjo, flor, valor)

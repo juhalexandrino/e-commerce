@@ -12,3 +12,17 @@ C:\Users\julia\Desktop\ECommerce\obj\Debug\net7.0\refint\ECommerce.dll
 C:\Users\julia\Desktop\ECommerce\obj\Debug\net7.0\ECommerce.pdb
 C:\Users\julia\Desktop\ECommerce\obj\Debug\net7.0\ECommerce.genruntimeconfig.cache
 C:\Users\julia\Desktop\ECommerce\obj\Debug\net7.0\ref\ECommerce.dll
+C:\Users\julia\Desktop\Projeto\ECommerce\bin\Debug\net7.0\ECommerce.exe
+C:\Users\julia\Desktop\Projeto\ECommerce\bin\Debug\net7.0\ECommerce.deps.json
+C:\Users\julia\Desktop\Projeto\ECommerce\bin\Debug\net7.0\ECommerce.runtimeconfig.json
+C:\Users\julia\Desktop\Projeto\ECommerce\bin\Debug\net7.0\ECommerce.dll
+C:\Users\julia\Desktop\Projeto\ECommerce\bin\Debug\net7.0\ECommerce.pdb
+C:\Users\julia\Desktop\Projeto\ECommerce\obj\Debug\net7.0\ECommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Desktop\Projeto\ECommerce\obj\Debug\net7.0\ECommerce.AssemblyInfoInputs.cache
+C:\Users\julia\Desktop\Projeto\ECommerce\obj\Debug\net7.0\ECommerce.AssemblyInfo.cs
+C:\Users\julia\Desktop\Projeto\ECommerce\obj\Debug\net7.0\ECommerce.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\Projeto\ECommerce\obj\Debug\net7.0\ECommerce.dll
+C:\Users\julia\Desktop\Projeto\ECommerce\obj\Debug\net7.0\refint\ECommerce.dll
+C:\Users\julia\Desktop\Projeto\ECommerce\obj\Debug\net7.0\ECommerce.pdb
+C:\Users\julia\Desktop\Projeto\ECommerce\obj\Debug\net7.0\ECommerce.genruntimeconfig.cache
+C:\Users\julia\Desktop\Projeto\ECommerce\obj\Debug\net7.0\ref\ECommerce.dll
