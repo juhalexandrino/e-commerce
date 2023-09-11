@@ -22,6 +22,8 @@ namespace ECommerce.Model
             this.valor = valor;
         }
 
+        public Produto() { }
+
         public int GetId()
         {
             return id;
